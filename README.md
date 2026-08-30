@@ -1,12 +1,12 @@
 # Thamizhan-Roleplay-V2
 
-# Welcome To Tamizhan Roleplay | SAMP Tamil RP Server
+# Welcome To Thamizhan Roleplay | SAMP Tamil RP Server
 
 ![image](https://i.imgur.com/kBuj6nn.png)
 
 
 
-Welcome to **Tamizhan Roleplay**, a unique SAMP roleplay server designed for the Tamil gaming community. Get started by downloading the necessary files below.
+Welcome to **Thamizhan Roleplay**, a unique SAMP roleplay server designed for the Tamil gaming community. Get started by downloading the necessary files below.
 
 ---
 
