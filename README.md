@@ -33,7 +33,7 @@ Welcome to **Thamizhan Roleplay**, a unique SAMP roleplay server designed for th
 ## 🎮 Server Details
 
 - **Server IP**: `15.235.162.19:7747`
-- **Gamemode**: Tamil Roleplay
+- **Gamemode**: TRP V2
 - **Language**: Tamil / English
 - **Discord**: [Join Discord](https://discord.gg/cJhbAp6yuu)
 
